@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alpersapann
 - 👀 I’m interested in software and mobile games.
 - 🌱 I’m currently learning to C#.
-- 📫 Send me mail (fbalperr33@gmail)...
+- 📫 Send me mail (hayrettinalpersapan@gmail)...
 
 <!---
 alpersapann/alpersapann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
